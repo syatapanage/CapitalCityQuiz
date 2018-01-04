@@ -4,7 +4,8 @@ package capitalCityQuiz;
  * This class contains the main method which makes use of the Quiz class.
  * 
  * @author Sadhana Yatapanage
- * @since 03-01-2018
+ * <p>
+ * Created on: 03-01-2018
  */
 
 public class Questions {
