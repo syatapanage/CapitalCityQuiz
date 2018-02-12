@@ -1,2 +1,2 @@
 # CapitalCityQuiz
-Quiz to test knowledge of capital cities.
+Console based quiz with questions about capital cities.
